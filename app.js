@@ -16,7 +16,7 @@ if (idade >= 18) {
 } 
 
 */
-
+alert("Boas-vindas ao jogo do número secreto!");
 let numeroSecreto = 2;
 console.log("Número secreto: " + numeroSecreto);
 
